@@ -11,14 +11,14 @@
 }
 
 :root {
-    --bg-color: #7E99A3; /* Updated background color */
-    --main-color: #4C585B; /* Updated main color */
-    --text-color: #333; /* You can adjust this if needed */
-    --second-text-color: #555; /* You can adjust this if needed */
+    --bg-color: #7E99A3; 
+    --main-color: #4C585B; 
+    --text-color: #333; 
+    --second-text-color: #555; 
     --white-color: #fff;
-    --cover-color: linear-gradient(45deg, #4C585B, #006e9a); /* Updated cover color */
+    --cover-color: linear-gradient(45deg, #4C585B, #5c7f88); 
     --pages-color: linear-gradient(90deg, #fff, #ddd);
-    --border: .125rem solid #4C585B; /* Updated border color */
+    --border: .125rem solid #4C585B; 
     --box-shadow: 0 0 .6rem rgba(0, 0, 0, .2);
 }
 
